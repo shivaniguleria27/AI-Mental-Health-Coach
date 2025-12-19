@@ -102,15 +102,15 @@ const App: React.FC = () => {
                       <span className="px-2 py-1 bg-slate-100 text-slate-700 rounded text-xs">python-dotenv</span>
                     </div>
                   </div>
-                  <div className="mt-6">
+                  {/* <div className="mt-6">
                     <h3 className="font-semibold text-slate-700 mb-2">Installation</h3>
                     <CodeBlock title="Terminal" language="bash" code="python -m venv venv\nsource venv/bin/activate\npip install -r requirements.txt" />
-                  </div>
+                  </div> */}
                 </div>
-                <div>
+                {/* <div>
                   <h3 className="font-semibold text-slate-700 mb-2">Clean Project Structure</h3>
                   <CodeBlock title="Directory Tree" language="text" code={PYTHON_FOLDER_STRUCTURE} />
-                </div>
+                </div> */}
               </div>
             </section>
           </div>
