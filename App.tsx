@@ -11,10 +11,10 @@ import ChatDemo from './components/ChatDemo';
 import CodeBlock from './components/CodeBlock';
 
 const TABS: NavTab[] = [
-  { id: 'demo', label: 'Live Demo', icon: 'fa-comments' },
+  { id: 'demo', label: 'Start Chating', icon: 'fa-comments' },
   { id: 'overview', label: 'Overview', icon: 'fa-lightbulb' },
-  { id: 'tech', label: 'Tech & Setup', icon: 'fa-code' },
-  { id: 'logic', label: 'Implementation', icon: 'fa-gears' },
+  { id: 'tech', label: 'Tech ', icon: 'fa-code' },
+  // { id: 'logic', label: 'Implementation', icon: 'fa-gears' },
   // { id: 'interview', label: 'Interview Prep', icon: 'fa-briefcase' },
   
 ];
